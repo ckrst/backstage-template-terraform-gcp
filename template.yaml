@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1beta2
 kind: Template
 # some metadata about the template itself
 metadata:
-  name: v1beta2-demo
+  name: terraform-gcp
   title: Terraform project GCP
   description: a Google Cloud terraform template
 spec:
